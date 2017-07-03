@@ -13,9 +13,9 @@ To apply settings:
 
 ### JAVA
 
-![](screenshot java.png)
+![](https://github.com/dmytrodanylyk/obsidian-colors/blob/master/screenshot%20java.png)
 
 ### XML
 
-![](screenshot XML.png)
+![](https://github.com/dmytrodanylyk/obsidian-colors/blob/master/screenshot%20XML.png)
 
